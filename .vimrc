@@ -19,9 +19,9 @@ Plugin 'ctrlpvim/ctrlp.vim'
 call vundle#end()            " required
 filetype plugin indent on    " required
 syntax on
-set tabstop=2
-set shiftwidth=2
-set softtabstop=2
+set tabstop=4
+set shiftwidth=4
+set softtabstop=4
 set expandtab
 set ai
 set number
@@ -30,3 +30,5 @@ set ruler
 highlight Comment ctermfg=green
 let g:ctrlp_user_command = ['.git', 'cd %s && git ls-files -co --exclude-standard']
 let g:ctrlp_working_path_mode = 'a'
+
+let g:asmsyntax = 'nasm'
