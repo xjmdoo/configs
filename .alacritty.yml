@@ -1,5 +1,9 @@
 font:
-  size: 12.0
+  size: 13.0
+
+selection:
+  save_to_clipboard: true
+
 # Colors (One Dark)
 colors:
   # Default colors
