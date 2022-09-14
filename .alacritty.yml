@@ -1,4 +1,6 @@
 font:
+  normal:
+    family: 'Iosevka Fixed'
   size: 13.0
 
 selection:
@@ -32,6 +34,35 @@ colors:
     magenta: '0xc678dd'
     cyan:    '0x56b6c2'
     white:   '0xffffff'
+
+
+# XTerm's default colors
+#colors:
+#   # Default colors
+#   primary:
+#     background: '0x1e2127'
+#     foreground: '0xabb2bf'
+#   # Normal colors
+#   normal:
+#     black:   '#000000'
+#     red:     '#cd0000'
+#     green:   '#00cd00'
+#     yellow:  '#cdcd00'
+#     blue:    '#0000ee'
+#     magenta: '#cd00cd'
+#     cyan:    '#00cdcd'
+#     white:   '#e5e5e5'
+#
+#   # Bright colors
+#   bright:
+#     black:   '#7f7f7f'
+#     red:     '#ff0000'
+#     green:   '#00ff00'
+#     yellow:  '#ffff00'
+#     blue:    '#5c5cff'
+#     magenta: '#ff00ff'
+#     cyan:    '#00ffff'
+#     white:   '#ffffff'
 
 key_bindings:
   - { key: Left,     mods: Alt,     chars: "\x1bb"                       } # Skip word left
