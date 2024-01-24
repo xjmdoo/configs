@@ -1,8 +1,8 @@
 shell-integration-features = no-cursor
 
 # Font
-font-family = Iosevka Fixed
-font-size = 14
+font-family = Iosevka Fixed Regular
+font-size = 13
 
 # Theme and colors
 theme = MaterialDarker
