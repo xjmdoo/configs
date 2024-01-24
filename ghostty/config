@@ -1,7 +1,15 @@
 shell-integration-features = no-cursor
+
+# Font
+font-family = Iosevka Fixed
+font-size = 14
+
+# Theme and colors
 theme = MaterialDarker
+
 background = 1e2127
 foreground = c3cddb
+
 # white
 palette = 7=#aab2bf
 palette = 15=#fbf1c7
