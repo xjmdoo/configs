@@ -1,8 +1,9 @@
 shell-integration-features = no-cursor
+copy-on-select = clipboard
 
 # Font
-font-family = Iosevka Fixed Regular
-font-size = 13
+font-family = Iosevka Fixed
+font-size = 14
 
 # Theme and colors
 theme = MaterialDarker
