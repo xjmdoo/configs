@@ -1,6 +1,9 @@
 shell-integration-features = no-cursor
 copy-on-select = clipboard
 
+keybind = alt+left=esc:b
+keybind = alt+right=esc:f
+
 # Font
 font-family = Iosevka Fixed
 font-size = 14
