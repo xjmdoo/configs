@@ -1,4 +1,5 @@
 shell-integration-features = no-cursor
+cursor-invert-fg-bg = true
 copy-on-select = clipboard
 
 keybind = alt+left=esc:b
