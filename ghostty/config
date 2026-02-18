@@ -6,19 +6,8 @@ keybind = alt+left=esc:b
 keybind = alt+right=esc:f
 
 # Font
-font-family = Iosevka Fixed
-font-size = 14
+font-size = 13
 
 # Theme and colors
-theme = MaterialDarker
+theme = Atom One Dark
 
-background = 1e2127
-foreground = c3cddb
-
-# white
-palette = 7=#aab2bf
-palette = 15=#fbf1c7
-
-# black
-palette = 0=#1e2127
-palette = 8=#5c6370
